@@ -1,1 +1,18 @@
 https://askubuntu.com/questions/1102368/how-to-disable-the-login-password-for-a-specific-user
+
+
+echo "Instalando Librerias....."
+zypper install -y net-tools-deprecated
+zypper install -y insserv-compat
+zypper install -y libgcc_s1-32bit
+zypper install -y libncurses5
+zypper install -y libncurses5-32bit
+zypper install -y libncurses6-32bit
+zypper install -y telnet
+zypper install -y bc
+zypper install -y lsb-release
+zypper install -y zip
+zypper install -y libstdc++6-32bit
+zypper install -y kernel-devel
+zypper install -y python2
+ifconfig
