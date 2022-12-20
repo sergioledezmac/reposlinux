@@ -1,0 +1,35 @@
+verificar el idioma del teclado con
+
+setxkbmap -query
+
+ir a la ruta:
+/usr/share/X11/xkb/symbols
+
+Una vez que hayas encontrado el archivo de configuración del teclado correcto, puedes modificarlo para deshabilitar la tecla deseada editar
+
+ejemplo 
+vi us
+
+Por ejemplo, para deshabilitar la tecla "A", debes eliminar la línea que contenga "key <AE01> { [ a, A ] };". 
+Luego, guarda el archivo y reinicia el sistema para que los cambios surtan efecto.
+
+
+
+
+/////// SEGUNDA OPCION \\\\\\\\\\\\\\\\\\\
+
+
+Ir a 
+/usr/share/X11/xkb/keycodes/
+
+editar archivo evdev
+ eliminar linea no necesaria
+ 
+ 
+ Recarga la configuración del teclado para que los cambios surtan efecto. Para hacer esto, escribe el siguiente comando en una terminal:
+
+setxkbmap -layout idioma_del_teclado
+
+Reemplaza "idioma_del_teclado" por el idioma del teclado que estás utilizando. Por ejemplo, si el idioma del teclado es el inglés, escribe:
+
+setxkbmap -layout us
