@@ -33,3 +33,41 @@ setxkbmap -layout idioma_del_teclado
 Reemplaza "idioma_del_teclado" por el idioma del teclado que estás utilizando. Por ejemplo, si el idioma del teclado es el inglés, escribe:
 
 setxkbmap -layout us
+
+
+
+
+
+///////////////////////////////////////////////////////Script bash
+
+Para eliminar una tecla específica del archivo de keycodes de X11, puedes utilizar el siguiente script de bash:
+
+#!/bin/bash
+
+# Verifica que se haya proporcionado un número de keycode
+if [ $# -ne 1 ]; then
+    echo "Error: se debe proporcionar un número de keycode"
+    exit 1
+fi
+
+# Verifica que el archivo de keycodes exista
+if [ ! -f "/usr/share/X11/xkb/keycodes/evdev" ]; then
+    echo "Error: no se encontró el archivo de keycodes evdev"
+    exit 1
+fi
+
+# Elimina la línea que contenga el keycode especificado
+keycode=$1
+sed -i "/${keycode}/d" /usr/share/X11/xkb/keycodes/evdev
+
+# Verifica que la eliminación haya sido exitosa
+if grep -q "${keycode}" /usr/share/X11/xkb/keycodes/evdev; then
+    echo "Error: no se pudo eliminar el keycode especificado"
+    exit 1
+fi
+
+echo "Keycode eliminado exitosamente"
+
+Este script toma un parámetro, que es el número de keycode que deseas eliminar. Verifica que el archivo de keycodes exista y luego utiliza la herramienta sed para eliminar la línea que contenga el keycode especificado. Por último, verifica que la eliminación haya sido exitosa buscando el keycode en el archivo.
+
+Nota: debes tener permisos de administrador (root) para modificar el archivo de keycodes
