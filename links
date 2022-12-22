@@ -14,4 +14,17 @@ https://www.intel.com/content/dam/support/us/en/documents/motherboards/server/s5
 
 
 
-find "$RUTA" -regex ".*/ejemplo.*\.txt" -print
+# Asume que la ruta de búsqueda se encuentra en la variable $RUTA y el patrón de nombre del archivo a buscar se encuentra en la variable $PATRON
+
+# Buscar archivos que coincidan con el patrón de nombre en la ruta especificada
+resultado=$(find "$RUTA" -name "$PATRON" -print)
+
+# Si el resultado de la búsqueda es vacío, mostrar un mensaje
+if [ -z "$resultado" ]; then
+  echo "No se han encontrado archivos que coincidan con el patrón de nombre"
+else
+  # Si el resultado de la búsqueda no es vacío, mostrar las rutas de los archivos encontrados
+  echo "Se han encontrado los siguientes archivos:"
+  echo "$resultado"
+fi
+
