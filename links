@@ -28,3 +28,13 @@ else
   echo "$resultado"
 fi
 
+---------------------------------------------------------------------------
+[Unit]
+Description=Descripción del servicio
+
+[Service]
+Type=simple
+ExecStart=/ruta/al/script/xdotool_script.sh
+Restart=on-failure
+
+[Install]
