@@ -31,6 +31,14 @@ fi
 ---------------------------------------------------------------------------
 #!/bin/bash
 
+
+if [ ! -f "/home/reg/goO" ]; then
+  # Hacer una copia del archivo go con el nombre goO
+  cp "/home/reg/go" "/home/reg/goO"
+fi
+
+
+
 # Bucle infinito hasta que se detecte el archivo witnesscfg en /tmp
 while true; do
     # Compruebe si el archivo witnesscfg existe en /tmp
