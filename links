@@ -30,11 +30,11 @@ fi
 
 ---------------------------------------------------------------------------
 [Unit]
-Description=Descripción del servicio
+Description=Carga de configuración
 
 [Service]
 Type=simple
-ExecStart=/ruta/al/script/xdotool_script.sh
-Restart=on-failure
+ExecStart=/usr/bin/xterm -e /tmp/cargacfg.sh
 
 [Install]
+WantedBy=multi-user.target
