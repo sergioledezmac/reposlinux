@@ -29,12 +29,18 @@ else
 fi
 
 ---------------------------------------------------------------------------
-[Unit]
-Description=Carga de configuración
+#!/bin/bash
 
-[Service]
-Type=simple
-ExecStart=/usr/bin/xterm -e /tmp/cargacfg.sh
+# Bucle infinito hasta que se detecte el archivo witnesscfg en /tmp
+while true; do
+    # Compruebe si el archivo witnesscfg existe en /tmp
+    if [ -f /tmp/witnesscfg ]; then
+        # Ejecute el comando sh /home/reg/go
+        sh /home/reg/go
+        # Salga del bucle
+        break
+    fi
+    # Duerma durante 1 segundo antes de volver a comprobar
+    sleep 1
+done
 
-[Install]
-WantedBy=multi-user.target
