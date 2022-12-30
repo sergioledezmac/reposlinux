@@ -52,3 +52,13 @@ while true; do
     sleep 1
 done
 
+
+
+
+
+
+[Desktop Entry]
+Type=Application
+Name=Custom Script
+Exec=xterm -e "xdotool exec xterm && yast2"
+You have new mail in /var/spool/mail/root
