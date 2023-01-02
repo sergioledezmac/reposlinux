@@ -1,34 +1,35 @@
 #!/bin/bash
 
-echo "¿Qué deseas hacer?"
-echo "1. Hacer respaldo de los dispositivos USB conectados"
-echo "2. Importar respaldo de dispositivos USB"
-read -p "Ingresa el número de la opción deseada: " opcion
+# Listar dispositivos USB conectados
+echo "Dispositivos USB conectados:"
+echo "---------------------------"
+lsblk | grep 'sd[a-z]'
+echo ""
 
-if [ $opcion -eq 1 ]
-then
-# Hacer respaldo de los dispositivos USB conectados
-mkdir -p /tmp/usbsave
-for device in $(ls /sys/bus/usb/devices/)
-do
-if [ -d "/sys/bus/usb/devices/$device" ] && [ "$device" != "." ] && [ "$device" != ".." ]
-then
-sudo usb-modeswitch -W -D -v 0x12d1 -p 0x1446 -s 0x12d1 -c /etc/usb_modeswitch.d/$device
-sudo cp -R /sys/bus/usb/devices/$device /tmp/usbsave
-fi
-done
-echo "Respaldo de dispositivos USB realizado con éxito en /tmp/usbsave"
-elif [ $opcion -eq 2 ]
-then
-# Importar respaldo de dispositivos USB
-for device in $(ls /tmp/usbsave)
-do
-if [ -d "/tmp/usbsave/$device" ] && [ "$device" != "." ] && [ "$device" != ".." ]
-then
-sudo cp -R /tmp/usbsave/$device /sys/bus/usb/devices/
-fi
-done
-echo "Importación de respaldo de dispositivos USB realizada con éxito"
+# Pedir al usuario que seleccione un dispositivo
+read -p "Selecciona un dispositivo (ejemplo: sdc): " device
+
+# Pedir al usuario si desea clonar o importar un archivo .img
+read -p "¿Quieres clonar o importar un archivo .img? [c/i]: " action
+
+if [ "$action" == "c" ]; then
+  # Clonar dispositivo
+  read -p "Ingresa el nombre del archivo .img: " filename
+  sudo dd if=/dev/$device of=$filename bs=1M
+  echo "Dispositivo clonado en $filename"
 else
-echo "Opción inválida"
+  # Importar archivo .img
+  read -p "Ingresa el nombre del archivo .img: " filename
+
+  # Encontrar dispositivo loopback libre
+  loop_dev=$(sudo losetup -f)
+  echo "Usando dispositivo loopback: $loop_dev"
+
+  # Montar archivo .img en el dispositivo loopback
+  sudo losetup $loop_dev $filename
+
+  # Pedir al usuario que seleccione un punto de montaje
+  read -p "Ingresa el punto de montaje (ejemplo: /mnt): " mount_point
+  sudo mount $loop_dev $mount_point
+  echo "Archivo .img montado en $mount_point"
 fi
