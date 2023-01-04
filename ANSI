@@ -58,3 +58,31 @@
 Welcome to Linux From Scratch!
 ^[[0;35mApollo 13 Version - Build 2^[[0m
 Kernel v\r
+
+
+
+
+<html>
+  <head>
+    <title>Botones de inicio</title>
+  </head>
+  <body>
+    <h1>Selecciona un modo de inicio</h1>
+    <button onclick="runCommand('init 3')">Iniciar en modo 3</button>
+    <button onclick="runCommand('init 5')">Iniciar en modo 5</button>
+    
+    <script>
+      function runCommand(cmd) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            alert(this.responseText);
+          }
+        };
+        xhttp.open("POST", "/run_command", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send("cmd=" + cmd);
+      }
+    </script>
+  </body>
+</html>
