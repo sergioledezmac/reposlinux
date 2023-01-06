@@ -1,0 +1,86 @@
+Tue Sep  6 16:02:38 2022 Linux (Linux 5.3.18-57-default)
+Tue Sep  6 16:02:38 2022 Toshiba FPGA Firmware Update
+Tue Sep  6 16:02:38 2022 Device Version: b1
+Tue Sep  6 16:02:38 2022 Firmware file '/usr/share/pos/firmware/aip4900fpga.spi' not found
+Tue Sep  6 16:02:38 2022 Finished with updates (rc=44, update_success=0)
+Tue Sep  6 16:02:38 2022 Exit code: 44 = 'Firmware file not found'
+
+Toshiba Point of Sale Subsystem
+
+Version 11.5.0   (build 37)
+
+Licensed Materials - Property of Toshiba Global Commerce Solutions, Inc.
+
+42H0080 (C) Copyright IBM Corp., 1992, 2012  All Rights Reserved
+Copyright (C) 2012 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+
+
+Toshiba Point of Sale Subsystem
+
+Version 11.5.0   (build 37)
+
+Licensed Materials - Property of Toshiba Global Commerce Solutions, Inc.
+
+42H0080 (C) Copyright IBM Corp., 1992, 2012  All Rights Reserved
+Copyright (C) 2012 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+
+
+Toshiba Point of Sale Subsystem
+
+Version 11.5.0   (build 37)
+
+Licensed Materials - Property of Toshiba Global Commerce Solutions, Inc.
+
+42H0080 (C) Copyright IBM Corp., 1992, 2012  All Rights Reserved
+Copyright (C) 2012 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+
+
+Toshiba Point of Sale Subsystem
+
+Version 11.5.0   (build 37)
+
+Licensed Materials - Property of Toshiba Global Commerce Solutions, Inc.
+
+42H0080 (C) Copyright IBM Corp., 1992, 2012  All Rights Reserved
+Copyright (C) 2012 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+
+Toshiba Point of Sale Trace Facility
+Licensed Materials - Property of Toshiba
+
+Copyright (C) 2005-2016 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+Using trace file '/usr/share/pos/config/aiptrace.cfg'
+Config directory '/var/lib/aiptraced'
+Starting socket interface
+tracing: Using port '42101'
+Toshiba Point of Sale Trace Facility
+Licensed Materials - Property of Toshiba
+
+Copyright (C) 2005-2016 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+Using trace file '/usr/share/pos/config/aiptrace.cfg'
+Config directory '/var/lib/aiptraced'
+Starting socket interface
+tracing: Using port '42101'
+Toshiba Point of Sale Trace Facility
+Licensed Materials - Property of Toshiba
+
+Copyright (C) 2005-2016 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+Using trace file '/usr/share/pos/config/aiptrace.cfg'
+Config directory '/var/lib/aiptraced'
+Starting socket interface
+tracing: Using port '42101'
+Toshiba Point of Sale Trace Facility
+Licensed Materials - Property of Toshiba
+
+Copyright (C) 2005-2016 Toshiba Global Commerce Solutions, Inc.,  All Rights Reserved
+Using trace file '/usr/share/pos/config/aiptrace.cfg'
+Config directory '/var/lib/aiptraced'
+Starting socket interface
+tracing: Using port '42101'
+New client: 1
+client: 1 connected to socket
+client: 1 SKT_ERR_ECONNRESET
+client: 1 disconnecting from socket
+New client: 2
+client: 2 connected to socket
+client: 2 SKT_ERR_ECONNRESET
+client: 2 disconnecting from socket

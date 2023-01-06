@@ -1,0 +1,917 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     JavaPOS Firmware update started at Tue Sep 06 15:47:37 2022
+JavaPOS Firmware update ended at Tue Sep 06 15:47:51 2022
+JavaPOS Firmware update started at Tue Sep 06 16:02:42 2022
+JavaPOS Firmware update ended at Tue Sep 06 16:02:57 2022
+JavaPOS Firmware update started at Tue Dec 20 11:19:12 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Dec 20 11:19:30 2022
+JavaPOS Firmware update started at Tue Dec 20 14:25:29 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Dec 20 14:25:47 2022
+JavaPOS Firmware update started at Tue Dec 20 14:42:42 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Dec 20 14:43:00 2022
+JavaPOS Firmware update started at Tue Dec 20 16:48:08 2022
+Flashing USB POSKeyboard(44T4011-201805101913595427000026) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+Flashing USB POSPrinter(41-042WG) from 0x191 to 0x191(/opt/tgcs/javapos/flash/rs485/aip46v4.hex) - NOT NEEDED
+JavaPOS Firmware update ended at Tue Dec 20 16:48:32 2022
+JavaPOS Firmware update started at Thu Dec 22 18:51:26 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 22 18:51:44 2022
+JavaPOS Firmware update started at Wed Dec 28 11:58:47 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Wed Dec 28 11:59:06 2022
+JavaPOS Firmware update started at Thu Dec 29 11:01:19 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 11:01:37 2022
+JavaPOS Firmware update started at Thu Dec 29 13:58:45 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 13:59:03 2022
+JavaPOS Firmware update started at Thu Dec 29 16:50:53 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 16:51:11 2022
+JavaPOS Firmware update started at Thu Dec 29 17:07:18 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 17:07:36 2022
+JavaPOS Firmware update started at Thu Dec 29 17:29:22 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 17:29:40 2022
+JavaPOS Firmware update started at Thu Dec 29 18:11:09 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 18:11:27 2022
+JavaPOS Firmware update started at Thu Dec 29 18:33:03 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Dec 29 18:33:21 2022
+JavaPOS Firmware update started at Fri Dec 30 10:10:15 2022
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Fri Dec 30 10:10:33 2022
+JavaPOS Firmware update started at Mon Jan 02 10:46:44 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Mon Jan 02 10:47:03 2023
+JavaPOS Firmware update started at Mon Jan 02 11:28:55 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Mon Jan 02 11:29:13 2023
+JavaPOS Firmware update started at Mon Jan 02 11:45:11 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Mon Jan 02 11:45:29 2023
+JavaPOS Firmware update started at Tue Jan 03 08:50:38 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Jan 03 08:50:56 2023
+JavaPOS Firmware update started at Tue Jan 03 13:43:34 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Jan 03 13:43:52 2023
+JavaPOS Firmware update started at Tue Jan 03 16:02:58 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Tue Jan 03 16:03:17 2023
+JavaPOS Firmware update started at Thu Jan 05 13:41:30 2023
+Flashing USB POSKeyboard(44T4011-201803231131213383000037) from 0x0371 to 0x0371(/opt/tgcs/javapos/flash/usb/aip46043.dat) - NOT NEEDED
+No respective flash file for :USB Scanner(F18M00470)
+JavaPOS Firmware update ended at Thu Jan 05 13:41:48 2023
+September 6, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 103
+System Name         = TCx 700 (4900-7x6)
+
+Date                = September 6, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+September 6, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 103
+System Name         = TCx 700 (4900-7x6)
+
+Date                = September 6, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 20, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 20, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 20, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 20, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 20, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 20, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 20, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 20, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 22, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 22, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 28, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 28, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 29, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 29, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+December 30, 2022, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = December 30, 2022
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 2, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 2, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 2, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 2, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 2, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 2, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 3, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 3, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 3, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 3, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 3, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 3, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
+January 5, 2023, Toshiba JavaPOS (TM) Services Versions log.
+====================================================================
+JavaPOS                            = v1.14.5L59 2019-07-26
+JSIO                               = 1.0.0
+javax.usb.Version.getApiVersion    = javax.usb.Version.getApiVersion : 1.0.2
+javax.usb.Version.getUsbVersion    = javax.usb.Version.getUsbVersion : 1.1
+com.ibm.jusb.Version.getApiVersion = com.ibm.jusb.Version.getApiVersion : 1.0.0
+com.ibm.jusb.Version.getRiVersion  = com.ibm.jusb.Version.getRiVersion : 1.0.2
+Java Communication API             = Not Found
+DeviceServiceNumber                = 1014559
+
+Environment Information
+------------------------------
+System ID           = 40
+System Name         = Toshiba SurePOS 720 (4900-74x)
+
+Date                = January 5, 2023
+os.name             = Linux
+os.arch             = i386
+os.version          = 5.3.18-57-default
+sun.java.command    = com.ibm.jpos.tools.sdicc.flashupdate.FlashAllDevices
+user.dir            = /
+user.timezone       = America/Costa_Rica
+java.vendor         = Oracle Corporation
+java.home           = /usr/java/jre1.8.0_202-i586
+java.version        = 1.8.0_202
+java.runtime.name   = Java(TM) SE Runtime Environment
+java.runtime.version= 1.8.0_202-b08
+java.vm.name        = Java HotSpot(TM) Server VM
+java.vm.version     = 25.202-b08
+java.fullversion    = null
+java.class.path     = /opt/tgcs/javapos:/opt/tgcs/javapos/etc:/opt/javax-usb/lib/jsr80.jar:/opt/javax-usb/lib/jsr80_ri.jar:/opt/javax-usb/etc:/opt/javax-usb/lib/jsr80_linux.jar:/opt/tgcs/javapos/lib/aiptrccfg.jar:/opt/tgcs/javapos/lib/jpos114.jar:/opt/tgcs/javapos/lib/jpos_sysmgmt.jar:/opt/tgcs/javapos/lib/tgcsjavapos.jar:/opt/tgcs/javapos/lib/xercesImpl.jar:/opt/tgcs/javapos/lib/xml-apis.jar
+java.library.path   = /usr/lib:/usr/lib64:/usr/java/packages/lib/i386:/lib:/usr/lib
+
+
+
