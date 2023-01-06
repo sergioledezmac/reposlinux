@@ -64,14 +64,30 @@ Kernel v\r
 
 
 
-# Busca el teclado IBM Corp. Keyboard
-keyboard=$(lsusb | grep "IBM Corp. Keyboard")
+#!/bin/bash
+echo "Selecciona un teclado de la lista:"
+echo "1. Teclado español"
+echo "2. Teclado inglés"
+echo "3. Teclado alemán"
+Leer la entrada del usuario
 
-# Si se encontró el teclado, genera el archivo de configuración vacío
-if [ -n "$keyboard" ]; then
-  dumpkeys > /tmp/empty.cfg
-  echo "Archivo de configuración vacío creado en /tmp/empty.cfg"
-else
-  echo "No se encontró el teclado IBM Corp. Keyboard"
-fi
+read -p "Opción: " opcion
+
+case $opcion in
+1)
+setxkbmap es
+;;
+2)
+setxkbmap gb
+;;
+3)
+setxkbmap de
+;;
+*)
+echo "Opción inválida"
+exit 1
+;;
+esac
+xkbcomp -xkm /tmp/map
+echo "Mapa de teclado extraído a /tmp/map"
 
