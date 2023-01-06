@@ -64,24 +64,14 @@ Kernel v\r
 
 
 
-<html>
-<head>
-  <title>Ejecutar comando en Linux</title>
-</head>
-<body>
-  <button onclick="ejecutarComando()">Crear archivo web.txt</button>
-  <script>
-    function ejecutarComando() {
-      const { exec } = require('child_process');
-      exec('touch /home/web.txt', (err, stdout, stderr) => {
-        if (err) {
-          console.error(`Error al ejecutar el comando: ${err}`);
-          return;
-        }
-        console.log(`Salida del comando: ${stdout}`);
-      });
-    }
-  </script>
-</body>
-</html>
+# Busca el teclado IBM Corp. Keyboard
+keyboard=$(lsusb | grep "IBM Corp. Keyboard")
+
+# Si se encontró el teclado, genera el archivo de configuración vacío
+if [ -n "$keyboard" ]; then
+  dumpkeys > /tmp/empty.cfg
+  echo "Archivo de configuración vacío creado en /tmp/empty.cfg"
+else
+  echo "No se encontró el teclado IBM Corp. Keyboard"
+fi
 
