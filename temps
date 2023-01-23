@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "Starting high CPU and RAM usage..."
+
+# Start a background process that uses a lot of CPU
+yes > /dev/null &
+
+# Allocate a large amount of memory using the dd command
+dd if=/dev/zero of=/tmp/largefile bs=1M count=1024
+
+# Wait for 5 seconds
+sleep 5
+
+# Kill the background process and remove the large file
+killall yes
+rm -f /tmp/largefile
+
+echo "High CPU and RAM usage complete."
