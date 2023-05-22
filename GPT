@@ -1,24 +1,32 @@
-Gracias por tu respuesta y por tu interés en obtener más detalles sobre nuestra determinación de que el proceso de configuración AutoYaST ya no es necesario para nuestro proyecto.
-Permíteme proporcionarte una explicación más detallada de las razones que nos llevaron a tomar esa decisión.
 
-Después de un análisis exhaustivo de nuestras necesidades y requisitos actuales, llegamos a la conclusión de que el uso de AutoYaST no se ajusta a nuestra situación específica por las siguientes razones:
 
-    Cambio de enfoque: Durante el transcurso del proyecto, hemos realizado modificaciones significativas en nuestro enfoque y arquitectura tecnológica. Estos cambios nos han llevado a adoptar una estrategia 
-    diferente que no está alineada con la implementación de AutoYaST.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejecutar script .sh</title>
+  <script>
+    function ejecutarScript() {
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "ejecutar.sh", true);
+      xhr.send();
+    }
+  </script>
+</head>
+<body>
+  <button onclick="ejecutarScript()">Ejecutar script</button>
+</body>
+</html>
 
-    Complejidad innecesaria: Si bien reconocemos que AutoYaST es una herramienta poderosa y flexible para la configuración automatizada de sistemas, 
-    hemos evaluado detenidamente nuestra infraestructura y los requisitos específicos del proyecto. Llegamos a la conclusión de que AutoYaST introduciría una 
-    capa de complejidad innecesaria en nuestra configuración y mantenimiento, y no justificaría plenamente el tiempo y los recursos adicionales que requeriría.
 
-    Opciones alternativas más adecuadas: Durante nuestra evaluación, hemos identificado otras soluciones y enfoques alternativos que se adaptan mejor a nuestras necesidades y 
-    ofrecen una mayor eficiencia en términos de tiempo y esfuerzo requeridos. Estas opciones nos brindan la flexibilidad y el control necesarios sin agregar una complejidad adicional.
+#!/bin/bash
+echo "¡El script se ha ejecutado correctamente!"
 
-Apreciamos sinceramente tu dedicación y la investigación que realizaste para presentarnos la opción de AutoYaST. Entendemos que invertiste tiempo y esfuerzo en tu propuesta, y 
-valoramos tu interés en ayudarnos a encontrar la mejor solución para nuestro proyecto.
 
-Si tienes alguna otra pregunta o si hay algo más en lo que pueda ayudarte, no dudes en hacérmelo saber. Estamos abiertos a discutir cualquier inquietud adicional que puedas tener.
 
-Agradecemos nuevamente tu colaboración y tu comprensión en esta situación. Esperamos mantenernos en contacto y explorar oportunidades de colaboración en el futuro.
+python3 -m http.server
 
-Saludos cordiales,
 
+<Files "ejecutar.sh">
+    Options +ExecCGI
+    AddHandler cgi-script .sh
+</Files>
