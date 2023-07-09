@@ -1,1 +1,47 @@
-https://walmart.zoom.us/j/95967919948
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main() {
+    setuid(0); // Establece el UID efectivo como root
+    system("/srv/www/htdocs/docker.sh");
+    return 0;
+}
+
+
+
+
+
+EL PHP 
+
+
+<html>
+<head>
+    <title>Reiniciar Docker</title>
+</head>
+<body>
+    <form method="post">
+        <input type="submit" name="restart_docker" value="Reiniciar Docker">
+    </form>
+</body>
+</html>
+
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    if (isset($_POST['restart_docker'])) {
+        exec('/srv/www/htdocs/docker');
+    }
+}
+?>
+
+
+
+
+
+
+
+
+
+
+
