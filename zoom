@@ -1,14 +1,21 @@
-https://teams.live.com/meet/9310338191509?p=aXd0AJ7UwtlerkSz
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
+Guardar el archivo como .c
+Ejemplo copiler.c
 
-int main() {
-    setuid(0); // Establece el UID efectivo como root
-    system("/srv/www/htdocs/docker.sh");
-    return 0;
-}
+            #include <stdio.h>
+            #include <stdlib.h>
+            #include <unistd.h>
+            
+            int main() {
+                setuid(0); // Establece el UID efectivo como root
+                system("/srv/www/htdocs/docker.sh");
+                return 0;
+            }
 
+Luego 
+gcc -o copiler copiler.c
+
+
+chmod +s copiler
 
 
 
